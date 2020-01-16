@@ -1,0 +1,77 @@
+{
+    "id":116424,
+    "corpusName":"Žiniasklaidos tekstai",
+    "corpusId":109,
+    "name":"1088_tekstas.txt",
+    "comment":"",
+    "dateCreated":"2018-12-07T12:49:03.508+02:00",
+    "dateModified":"2019-11-19T17:10:04.439+02:00",
+    "content":"Mažosios partijos neranda pinigų rinkimų užstatui\nRudenį vyksiančiuose Seimo rinkimuose buvo pasišovusios dalyvauti 19 partijų, tačiau jau dabar aišku, kad ne visų jų pavadinimus rinkėjai pamatys rinkimų biuletenyje.\nKai kurių neparlamentinių nedidelių partijų vadovai pripažino nerandantys pinigų rinkimų užstatui – beveik 8 tūkst. eurų. Jeigu per rinkimus nepavyktų surinkti 3 proc. rinkėjų balsų, užstatas partijoms nebūtų grąžintas, rašo „Lietuvos rytas“.\nEmigrantų partijos, Kovotojų už Lietuvą sąjungos lyderiai prisipažino, kad jų partijos parlamento rinkimuose nedalyvaus dėl rinkimų užstato. Lietuvos krikščioniškosios demokratijos partijos vadovas Eligijus Duonys tikisi sudaryti koaliciją su Centro partija.\n„Tačiau vis tiek teks rasti pinigų. Mes ieškome, krapštome, taupome. Užstatas didelis, o rinkėjų balsų barjeras irgi nemenkas. Bet partija, kuri nedalyvauja rinkimuose, iš viso yra pasmerkta išnykti. Štai toks ir pasirinkimas“, – dėstė E. Duonys.\nSeimo rinkimai vyks spalio 9 dieną.",
+    "source":"",
+    "url":"http://archive.ph/vZOl6",
+    "lexemeCount":158,
+    "tags":[
+    ],
+    "annotationLayers":[
+        {
+            "id":1373655,
+            "type":"anaphora_resolution",
+            "version":3,
+            "dateCreated":"2019-11-21T18:19:12.012+02:00",
+            "dateModified":"2019-11-21T18:19:12.014+02:00",
+            "content":"{\"anaphora_resolution\":[]}",
+            "tags":[
+            ]
+        },
+        {
+            "id":1373652,
+            "type":"lex",
+            "version":1,
+            "dateCreated":"2019-11-21T18:19:11.247+02:00",
+            "dateModified":"2019-11-21T18:19:11.248+02:00",
+            "content":"{\"seg\":[[0,8],[9,8],[18,7],[26,6],[33,7],[41,8],[50,6],[57,13],[71,5],[77,10],[88,4],[93,12],[106,9],[116,2],[119,7],[126,1],[128,6],[135,3],[139,5],[145,5],[150,1],[152,3],[156,2],[159,4],[164,2],[167,11],[179,8],[188,7],[196,7],[204,11],[215,1],[217,3],[221,5],[227,15],[243,9],[253,7],[261,7],[269,9],[279,11],[291,6],[298,7],[306,8],[315,1],[317,6],[324,1],[326,6],[333,4],[337,1],[339,5],[345,3],[349,8],[358,9],[368,8],[377,1],[379,5],[385,7],[393,5],[398,1],[400,8],[409,9],[419,6],[426,9],[435,1],[437,4],[442,1],[443,8],[452,5],[457,1],[458,1],[460,9],[470,8],[478,1],[480,8],[489,2],[492,7],[500,8],[509,8],[518,11],[529,1],[531,3],[535,2],[538,8],[547,10],[558,10],[569,10],[580,3],[584,7],[592,7],[599,1],[601,8],[610,17],[628,12],[641,8],[650,7],[658,8],[667,6],[674,6],[681,8],[690,9],[700,2],[703,6],[710,7],[717,1],[719,1],[720,6],[727,8],[736,4],[741,5],[747,6],[753,1],[755,3],[759,7],[766,1],[768,9],[777,1],[779,7],[786,1],[788,8],[797,7],[804,1],[806,1],[808,7],[816,5],[822,8],[831,4],[836,8],[844,1],[846,3],[850,7],[857,1],[859,4],[864,11],[876,10],[886,1],[888,2],[891,4],[896,3],[900,9],[910,7],[917,1],[919,4],[924,4],[929,2],[932,12],[944,1],[945,1],[947,1],[949,5],[955,2],[958,6],[964,1],[966,5],[972,8],[981,4],[986,6],[993,1],[995,5],[1000,1]],\"s\":[[0,49],[50,166],[217,121],[339,120],[460,140],[601,117],[719,35],[755,32],[788,57],[846,72],[919,46],[966,35]],\"p\":[[0,49],[50,166],[217,242],[460,258],[719,246],[966,35]]}",
+            "tags":[
+            ]
+        },
+        {
+            "id":1374085,
+            "type":"manualCoreferences",
+            "version":2,
+            "dateCreated":"2020-01-16T14:10:53.826+02:00",
+            "dateModified":"2020-01-16T14:10:53.826+02:00",
+            "content":"{\"coreferences\":[{\"Mentions\":[[850,7]],\"Referant\":[859,4],\"Type\":\"peas\"},{\"Mentions\":[[658,15]],\"Referant\":[955,9],\"Type\":\"dbis\"}]}",
+            "tags":[
+            ]
+        },
+        {
+            "id":1365701,
+            "type":"manualCoreferences",
+            "version":1,
+            "dateCreated":"2019-03-05T19:46:07.069+02:00",
+            "dateModified":"2019-03-05T19:46:07.069+02:00",
+            "content":"{\"coreferences\":[{\"Mentions\":[[850,7]],\"Referant\":[859,4],\"Type\":\"peas\"},{\"Mentions\":[[658,15]],\"Referant\":[955,9],\"Type\":\"dbis\"},{\"Mentions\":[[119,7]],\"Referant\":[164,2],\"Type\":\"poas\"},{\"Mentions\":[[509,8]],\"Referant\":[535,2],\"Type\":\"poas\"},{\"Mentions\":[[601,48]],\"Referant\":[755,3],\"Type\":\"ppas\"},{\"Mentions\":[[71,16]],\"Referant\":[349,8],\"Type\":\"gais\"},{\"Mentions\":[[71,16]],\"Referant\":[547,21],\"Type\":\"gsis\"},{\"Mentions\":[[547,21]],\"Referant\":[876,10],\"Type\":\"gais\"},{\"Mentions\":[[71,16]],\"Referant\":[966,14],\"Type\":\"gtis\"},{\"Mentions\":[[298,16]],\"Referant\":[400,8],\"Type\":\"gais\"},{\"Mentions\":[[298,16]],\"Referant\":[584,15],\"Type\":\"gtis\"},{\"Mentions\":[[584,15]],\"Referant\":[788,8],\"Type\":\"gais\"}]}",
+            "tags":[
+            ]
+        },
+        {
+            "id":1373653,
+            "type":"morphology",
+            "version":4,
+            "dateCreated":"2019-11-21T18:19:11.410+02:00",
+            "dateModified":"2019-11-21T18:19:11.412+02:00",
+            "content":"{\"msd\":[[[\"mažas\",\"Agpfsgy\"],[\"mažas\",\"Agpfpny\"],[\"mažas\",\"Agpfpvy\"]],[[\"partija\",\"Ncfsgn-\"],[\"partija\",\"Ncfpnn-\"],[\"partija\",\"Ncfpvn-\"]],[[\"nerasti\",\"Vgmp3s--y--ni-\"],[\"nerasti\",\"Vgmp3p--y--ni-\"],[\"nerasti\",\"Vgmp3---y--ni-\"]],[[\"pinigas\",\"Ncmpgn-\"]],[[\"rinkimai\",\"Ncmpgn-\"]],[[\"užstatas\",\"Ncmsdn-\"]],[[\"ruduo\",\"Ncmsan-\"]],[[\"vykti\",\"Vgpf-pmannln-p\"]],[[\"seimas\",\"Ncmsgn-\"],[\"Seimas\",\"Npmsgn-\"]],[[\"rinkimai\",\"Ncmpln-\"]],[[\"būti\",\"Vgms3p--n--ni-\"],[\"būti\",\"Vgms3s--n--ni-\"],[\"būti\",\"Vgms3---n--ni-\"]],[[\"pasišauti\",\"Vgps-pfannny-p\"],[\"pasišauti\",\"Vgps-sfanngy-p\"],[\"pasišauti\",\"Vgps-pfannvy-p\"]],[[\"dalyvauti\",\"Vgi-----n--n--\"],[\"dalyvauti\",\"Vgpa-pmpnnnn-p\"],[\"dalyvauti\",\"Vgpa-pmpnnvn-p\"]],[[\"19\",\"M----d-\"]],[[\"partija\",\"Ncfpgn-\"]],[[\",\",\"Tc\"]],[[\"tačiau\",\"Cg\"]],[[\"jau\",\"Rgp\"],[\"jau\",\"Qg\"]],[[\"dabar\",\"Rgp\"]],[[\"aiškus\",\"Agpn--n\"]],[[\",\",\"Tc\"]],[[\"kad\",\"Cg\"],[\"kad\",\"Qg\"]],[[\"ne\",\"Qg\"],[\"ne\",\"Cg\"]],[[\"visas\",\"Pgmpgn\"],[\"visas\",\"Pgfpgn\"]],[[\"jis\",\"Pgmpgn\"],[\"jis\",\"Pgfpgn\"]],[[\"pavadinimas\",\"Ncmpan-\"]],[[\"rinkėjas\",\"Ncmpnn-\"],[\"rinkėjas\",\"Ncmpvn-\"],[\"rinkėja\",\"Ncfsdn-\"]],[[\"pamatyti\",\"Vgmf3p--n--ni-\"],[\"pamatyti\",\"Vgmf3s--n--ni-\"],[\"pamatyti\",\"Vgmf3---n--ni-\"]],[[\"rinkimai\",\"Ncmpgn-\"]],[[\"biuletenis\",\"Ncmsln-\"]],[[\".\",\"Tp\"]],[[\"kai\",\"Cg\"],[\"kai\",\"Qg\"]],[[\"kuris\",\"Pgmpgn\"],[\"kuris\",\"Pgfpgn\"]],[[\"neparlamentinis\",\"Agpmpgn\"],[\"neparlamentinis\",\"Agpfpgn\"]],[[\"nedidelis\",\"Agpmpgn\"],[\"nedidelis\",\"Agpfpgn\"]],[[\"partija\",\"Ncfpgn-\"]],[[\"vadovas\",\"Ncmpnn-\"],[\"vadovas\",\"Ncmpvn-\"]],[[\"pripažinti\",\"Vgms3p--n--ni-\"],[\"pripažinti\",\"Vgms3s--n--ni-\"],[\"pripažinti\",\"Vgms3---n--ni-\"]],[[\"nerasti\",\"Vgpp-pmaynnn-p\"],[\"nerasti\",\"Vgpp-pmaynvn-p\"]],[[\"pinigas\",\"Ncmpgn-\"]],[[\"rinkimai\",\"Ncmpgn-\"]],[[\"užstatas\",\"Ncmsdn-\"]],[[\"–\",\"Th\"]],[[\"beveik\",\"Rgp\"],[\"beveikti\",\"Vgm-2s--n--nm-\"]],[[\"8\",\"M----d-\"]],[[\"tūkst.\",\"Ys\"]],[[\"euras\",\"Ncmpgn-\"]],[[\".\",\"Tp\"]],[[\"jeigu\",\"Cg\"]],[[\"per\",\"Sga\"],[\"per\",\"Qg\"]],[[\"rinkimai\",\"Ncmpan-\"]],[[\"nepavykti\",\"Vgm-3---y--ns-\"],[\"nepavykti\",\"Vgm-3s--y--ns-\"],[\"nepavykti\",\"Vgm-3p--y--ns-\"],[\"nepavykti\",\"Vgpa-pmpyngn-p\"],[\"nepavykti\",\"Vgpa-pfpyngn-p\"]],[[\"surinkti\",\"Vgi-----n--n--\"],[\"surinkti\",\"Vgpa-pmpnnnn-p\"],[\"surinkti\",\"Vgpa-pmpnnvn-p\"]],[[\"3\",\"M----d-\"]],[[\"proc.\",\"Ys\"]],[[\"rinkėjas\",\"Ncmpgn-\"],[\"rinkėja\",\"Ncfpgn-\"]],[[\"balsas\",\"Ncmpgn-\"]],[[\",\",\"Tc\"]],[[\"užstatas\",\"Ncmsnn-\"]],[[\"partija\",\"Ncfpdn-\"]],[[\"nebūtas\",\"Agpmpgn\"],[\"nebūti\",\"Vgm-3s--y--ns-\"],[\"nebūti\",\"Vgm-3p--y--ns-\"],[\"nebūti\",\"Vgm-3---y--ns-\"],[\"nebūtas\",\"Agpfpgn\"],[\"nebūti\",\"Vgpa-pmpyngn-p\"],[\"nebūti\",\"Vgpa-pfpyngn-p\"]],[[\"grąžinti\",\"Vgpa-smpnnnn-p\"],[\"grąžinti\",\"Vgpa-pfpnnan-p\"],[\"grąžinti\",\"Vgpa-smpnnvn-p\"]],[[\",\",\"Tc\"]],[[\"rašyti\",\"Vgmp3s--n--ni-\"],[\"rašyti\",\"Vgmp3p--n--ni-\"],[\"rašyti\",\"Vgmp3---n--ni-\"]],[[\"„\",\"Tu\"]],[[\"Lietuva\",\"Npfsgng\"]],[[\"rytas\",\"Ncmsnn-\"],[\"ryti\",\"Vgpa-smpnnnn-p\"],[\"ryti\",\"Vgpa-pfpnnan-p\"],[\"ryti\",\"Vgpa-smpnnvn-p\"]],[[\"“\",\"Tu\"]],[[\".\",\"Tp\"]],[[\"emigrantas\",\"Ncmpgn-\"]],[[\"partija\",\"Ncfsgn-\"],[\"partija\",\"Ncfpnn-\"],[\"partija\",\"Ncfpvn-\"]],[[\",\",\"Tc\"]],[[\"kovotojas\",\"Ncmpgn-\"],[\"kovotoja\",\"Ncfpgn-\"]],[[\"už\",\"Sgg\"],[\"už\",\"Sga\"]],[[\"Lietuva\",\"Npfsang\"]],[[\"sąjunga\",\"Ncfsgn-\"],[\"sąjunga\",\"Ncfpnn-\"],[\"sąjunga\",\"Ncfpvn-\"]],[[\"lyderis\",\"Ncmpnn-\"],[\"lyderis\",\"Ncmpvn-\"]],[[\"prisipažinti\",\"Vgms3p--n--yi-\"],[\"prisipažinti\",\"Vgms3s--n--yi-\"],[\"prisipažinti\",\"Vgms3---n--yi-\"]],[[\",\",\"Tc\"]],[[\"kad\",\"Cg\"],[\"kad\",\"Qg\"]],[[\"jis\",\"Pgmpgn\"],[\"jis\",\"Pgfpgn\"]],[[\"partija\",\"Ncfsgn-\"],[\"partija\",\"Ncfpnn-\"],[\"partija\",\"Ncfpvn-\"]],[[\"parlamentas\",\"Ncmsgn-\"]],[[\"rinkimai\",\"Ncmpln-\"]],[[\"nedalyvauti\",\"Vgmf3p--y--ni-\"],[\"nedalyvauti\",\"Vgmf3p--y--ni-\"],[\"nedalyvauti\",\"Vgmf3---y--ni-\"]],[[\"dėl\",\"Sgg\"]],[[\"rinkimai\",\"Ncmpgn-\"]],[[\"užstatas\",\"Ncmsgn-\"],[\"užstatyti\",\"Vgmp3s--n--ni-\"],[\"užstatyti\",\"Vgmp3p--n--ni-\"],[\"užstatyti\",\"Vgmp3---n--ni-\"]],[[\".\",\"Tp\"]],[[\"Lietuva\",\"Npfsgng\"]],[[\"krikščioniškas\",\"Agpfsgy\"],[\"krikščioniškas\",\"Agpfpny\"],[\"krikščioniškas\",\"Agpfpvy\"]],[[\"demokratija\",\"Ncfsgn-\"],[\"demokratija\",\"Ncfpnn-\"],[\"demokratija\",\"Ncfpvn-\"]],[[\"partija\",\"Ncfsgn-\"],[\"partija\",\"Ncfpnn-\"],[\"partija\",\"Ncfpvn-\"]],[[\"vadovas\",\"Ncmsnn-\"]],[[\"Eligijus\",\"Npmsnnf\"]],[[\"Duonys\",\"X-\"]],[[\"tikėtis\",\"Vgmp3s--n--yi-\"],[\"tikėtis\",\"Vgmp3p--n--yi-\"],[\"tikėtis\",\"Vgmp3---n--yi-\"]],[[\"sudaryti\",\"Vgi-----n--n--\"],[\"sudaryti\",\"Vgpa-pmpnnnn-p\"],[\"sudaryti\",\"Vgpa-pmpnnvn-p\"]],[[\"koalicija\",\"Ncfsan-\"]],[[\"su\",\"Sgi\"]],[[\"centras\",\"Ncmsgn-\"]],[[\"partija\",\"Ncfsin-\"],[\"partija\",\"Ncfsnn-\"],[\"partija\",\"Ncfsvn-\"]],[[\".\",\"Tp\"]],[[\"„\",\"Tu\"]],[[\"tačiau\",\"Cg\"]],[[\"vis tiek\",\"Rgp\"]],[[\"tekti\",\"Vgmf3---n--ni-\"],[\"tekti\",\"Vgmf3s--n--ni-\"],[\"tekti\",\"Vgmf3p--n--ni-\"]],[[\"rasti\",\"Vgi-----n--n--\"],[\"rasti\",\"Vgpa-pmpnnnn-p\"],[\"rasti\",\"Vgpa-pmpnnvn-p\"]],[[\"pinigas\",\"Ncmpgn-\"]],[[\".\",\"Tp\"]],[[\"aš\",\"Pg-pnn\"],[\"mesti\",\"Vgmf3s--n--ni-\"],[\"mesti\",\"Vgmf3p--n--ni-\"],[\"mesti\",\"Vgmf3---n--ni-\"]],[[\"ieškoti\",\"Vgmp1p--n--ni-\"]],[[\",\",\"Tc\"]],[[\"krapštyti\",\"Vgmp1p--n--ni-\"]],[[\",\",\"Tc\"]],[[\"taupyti\",\"Vgmp1p--n--ni-\"]],[[\".\",\"Tp\"]],[[\"užstatas\",\"Ncmsnn-\"]],[[\"didelis\",\"Agpmsnn\"],[\"didelis\",\"Agpmsvn\"]],[[\",\",\"Tc\"]],[[\"o\",\"Cg\"],[\"o\",\"Qg\"],[\"o\",\"Ig\"]],[[\"rinkėjas\",\"Ncmpgn-\"],[\"rinkėja\",\"Ncfpgn-\"]],[[\"balsas\",\"Ncmpgn-\"]],[[\"barjeras\",\"Ncmsnn-\"]],[[\"irgi\",\"Rgp\"],[\"irgi\",\"Qg\"]],[[\"nemenkas\",\"Agpmsnn\"],[\"nemenkas\",\"Agpfpan\"],[\"nemenkas\",\"Agpmsvn\"]],[[\".\",\"Tp\"]],[[\"bet\",\"Cg\"],[\"bet\",\"Qg\"]],[[\"partija\",\"Ncfsnn-\"],[\"partija\",\"Ncfsin-\"],[\"partija\",\"Ncfsvn-\"]],[[\",\",\"Tc\"]],[[\"kuris\",\"Pgfsnn\"],[\"kurti\",\"Vgmp2s--n--ni-\"]],[[\"nedalyvauti\",\"Vgmp3s--y--ni-\"],[\"nedalyvauti\",\"Vgmp3p--y--ni-\"],[\"nedalyvauti\",\"Vgmp3---y--ni-\"]],[[\"rinkimai\",\"Ncmpln-\"]],[[\",\",\"Tc\"]],[[\"iš\",\"Sgg\"],[\"ižti\",\"Vgmf3s--n--ni-\"],[\"ižti\",\"Vgmf3p--n--ni-\"],[\"ižti\",\"Vgmf3---n--ni-\"]],[[\"visas\",\"Pgmsgn\"]],[[\"būti\",\"Vgmp3s--n--ni-\"],[\"būti\",\"Vgmp3p--n--ni-\"],[\"irti\",\"Vgmp3s--n--ni-\"],[\"būti\",\"Vgmp3---n--ni-\"],[\"irti\",\"Vgmp3p--n--ni-\"],[\"irti\",\"Vgmp3---n--ni-\"]],[[\"pasmerkti\",\"Vgpa-sfpnnnn-p\"],[\"pasmerkti\",\"Vgpa--npnn-n-p\"],[\"pasmerkti\",\"Vgpa-sfpnnin-p\"],[\"pasmerkti\",\"Vgpa-sfpnnvn-p\"]],[[\"išnykti\",\"Vgi-----n--n--\"],[\"išnykti\",\"Vgpa-pmpnnnn-p\"],[\"išnykti\",\"Vgpa-pmpnnvn-p\"]],[[\".\",\"Tp\"]],[[\"štai\",\"Qg\"]],[[\"toks\",\"Pgmsnn\"],[\"toks\",\"Pgmsvn\"]],[[\"ir\",\"Cg\"],[\"ir\",\"Qg\"]],[[\"pasirinkimas\",\"Ncmsnn-\"]],[[\"“\",\"Tu\"]],[[\",\",\"Tc\"]],[[\"–\",\"Th\"]],[[\"dėstyti\",\"Vgms3s--n--ni-\"],[\"dėstyti\",\"Vgms3p--n--ni-\"],[\"dėstyti\",\"Vgms3---n--ni-\"]],[[\"E.\",\"Ys\"],[\"e\",\"Ig\"]],[[\"Duonys\",\"X-\"]],[[\".\",\"Tp\"]],[[\"seimas\",\"Ncmsgn-\"],[\"Seimas\",\"Npmsgn-\"]],[[\"rinkimai\",\"Ncmpnn-\"],[\"rinkimai\",\"Ncmpvn-\"]],[[\"vykti\",\"Vgmf3p--n--ni-\"],[\"vykti\",\"Vgmf3s--n--ni-\"],[\"vykti\",\"Vgmf3---n--ni-\"]],[[\"spalis\",\"Ncmsgn-\"]],[[\"9\",\"M----d-\"]],[[\"diena\",\"Ncfsan-\"]],[[\".\",\"Tp\"]]],\"stem\":[\"Maž\",\"partij\",\"nerand\",\"pinig\",\"rinkim\",\"užstat\",\"Ruden\",\"vyks\",\"Seim\",\"rinkim\",\"buv\",\"pasišovus\",\"dalyvaut\",\"19\",\"partij\",\",\",\"tač\",\"jau\",\"dabar\",\"aišk\",\",\",\"kad\",\"ne\",\"vis\",\"jų\",\"pavadinim\",\"rinkėj\",\"pamat\",\"rinkim\",\"biuleten\",\".\",\"Kai\",\"kur\",\"neparlamentin\",\"nedidel\",\"partij\",\"vadov\",\"pripažin\",\"nerand\",\"pinig\",\"rinkim\",\"užstat\",\"–\",\"beveik\",\"8\",\"tūkst.\",\"eur\",\".\",\"Jeig\",\"per\",\"rinkim\",\"nepavykt\",\"surinkt\",\"3\",\"proc.\",\"rinkėj\",\"bals\",\",\",\"užstat\",\"partij\",\"nebūt\",\"grąžint\",\",\",\"raš\",\"„\",\"Lietuv\",\"ryt\",\"“\",\".\",\"Emigrant\",\"partij\",\",\",\"Kovot\",\"už\",\"Lietuv\",\"sąjung\",\"lyder\",\"prisipažin\",\",\",\"kad\",\"jų\",\"partij\",\"parlament\",\"rinkim\",\"nedalyv\",\"dėl\",\"rinkim\",\"užstat\",\".\",\"Lietuv\",\"krikščion\",\"demokratij\",\"partij\",\"vadov\",\"Eligij\",\"Duon\",\"tikis\",\"sudar\",\"koalicij\",\"su\",\"Centr\",\"partij\",\".\",\"„\",\"Tač\",\"vis tiek\",\"tek\",\"rast\",\"pinig\",\".\",\"Mes\",\"iešk\",\",\",\"krapšt\",\",\",\"taup\",\".\",\"Užstat\",\"didel\",\",\",\"o\",\"rinkėj\",\"bals\",\"barjer\",\"irg\",\"nemenk\",\".\",\"Bet\",\"partij\",\",\",\"kur\",\"nedalyvauj\",\"rinkim\",\",\",\"iš\",\"vis\",\"yr\",\"pasmerkt\",\"išnykt\",\".\",\"Štai\",\"tok\",\"ir\",\"pasirinkim\",\"“\",\",\",\"–\",\"dėst\",\"E.\",\"Duon\",\".\",\"Seim\",\"rinkim\",\"vyk\",\"spal\",\"9\",\"dien\",\".\"]}",
+            "tags":[
+            ]
+        },
+        {
+            "id":1373654,
+            "type":"ner",
+            "version":10,
+            "dateCreated":"2019-11-21T18:19:11.969+02:00",
+            "dateModified":"2019-11-21T18:19:11.971+02:00",
+            "content":"{\"ne\":{\"money\":[{\"text\":\"8 tūkst. eurų\",\"ref\":[44,3]}],\"dates\":[{\"text\":\"spalio 9 dieną\",\"ref\":[154,3]}],\"products\":[{\"text\":\"„Lietuvos rytas“\",\"ref\":[64,4]}],\"organizations\":[{\"text\":\"Seimo\",\"ref\":[8,1]},{\"text\":\"Centro partija\",\"ref\":[100,2]},{\"text\":\"Seimo\",\"ref\":[151,1]}],\"locations\":[{\"text\":\"Lietuvą\",\"ref\":[74,1]},{\"text\":\"Lietuvos\",\"ref\":[89,1]}],\"persons\":[{\"text\":\"Eligijus Duonys\",\"ref\":[94,2]},{\"text\":\"E. Duonys\",\"ref\":[148,2]}]},\"associations\":{\"organizations\":\"Seimo\"}}",
+            "tags":[
+            ]
+        }
+    ]
+}
